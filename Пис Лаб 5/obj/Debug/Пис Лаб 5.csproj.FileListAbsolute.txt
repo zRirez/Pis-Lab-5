@@ -1,1 +1,6 @@
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Пис Лаб 5.exe.config
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Пис Лаб 5.exe
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Пис Лаб 5.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\obj\Debug\Пис Лаб 5.csprojResolveAssemblyReference.cache
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\obj\Debug\Пис Лаб 5.exe
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\obj\Debug\Пис Лаб 5.pdb

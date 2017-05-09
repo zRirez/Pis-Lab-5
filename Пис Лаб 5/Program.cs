@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Application;
+using Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +12,10 @@ namespace Пис_Лаб_5
     {
         static void Main(string[] args)
         {
+
+            ApplicationService service = new ApplicationService()
+
+            List<Product> products = service.GetProductsWithEvenId(2);
         }
     }
 }
