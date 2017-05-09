@@ -12,10 +12,18 @@ namespace Пис_Лаб_5
     {
         static void Main(string[] args)
         {
-
-            ApplicationService service = new ApplicationService()
+            string address = "Data Source=ALEXANDR-NOUT-W\\SQLEXPRESS;Initial Catalog=ProductsDb;Integrated Security=True";
+            IRepository repository = new Repository(address);
+            IApplicationService service = new ApplicationService(repository);
 
             List<Product> products = service.GetProductsWithEvenId(2);
+
+            foreach (Product product in products)
+            {
+                Console.WriteLine("{0} {1} {2} {3}", product.id, product.name, product.country, product.coust);
+            }
+
+            Console.ReadLine();
         }
     }
 }
