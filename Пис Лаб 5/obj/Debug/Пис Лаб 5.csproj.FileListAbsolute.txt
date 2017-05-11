@@ -8,3 +8,6 @@ D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пи�
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Domain.dll
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Application.pdb
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\Domain.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\NLog.config
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\NLog.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Пис Лаб 5\bin\Debug\NLog.xml

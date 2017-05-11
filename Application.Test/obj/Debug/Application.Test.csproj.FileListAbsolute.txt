@@ -9,3 +9,5 @@ D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Appli
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Domain.dll
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Application.pdb
 D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Domain.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\NLog.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\NLog.xml
