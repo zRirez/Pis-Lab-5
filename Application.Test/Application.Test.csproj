@@ -51,7 +51,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ApplicationServiceTest.cs" />
+    <Compile Include="Comparer.cs" />
     <Compile Include="MockRepository.cs" />
+    <Compile Include="MockRepositoryEmpty.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

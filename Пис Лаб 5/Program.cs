@@ -22,9 +22,7 @@ namespace Пис_Лаб_5
             Console.WriteLine("{0,2}|{1,10}|{2,10}|{3,7}|", "Id", "Name", "Country", "Coust");
             Console.WriteLine("--+----------+----------+-------+");
             foreach (Product product in products)
-            {
                 Console.WriteLine("{0,2}|{1,10}|{2,10}|{3,7}|", product.id, product.name, product.country, product.coust);
-            }
             Console.WriteLine("---------------------------------\n");
 
 
@@ -34,9 +32,7 @@ namespace Пис_Лаб_5
             Console.WriteLine("{0,2}|{1,10}|{2,10}|{3,7}|", "Id", "Name", "Country", "Coust");
             Console.WriteLine("--+----------+----------+-------+");
             foreach (Product product in products)
-            {
                 Console.WriteLine("{0,2}|{1,10}|{2,10}|{3,7}|", product.id, product.name, product.country, product.coust);
-            }
             Console.WriteLine("---------------------------------\n");
 
             Console.ReadLine();
