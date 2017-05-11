@@ -1,0 +1,11 @@
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Application.Test.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Application.Test.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\obj\Debug\Application.Test.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\obj\Debug\Application.Test.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\obj\Debug\Application.Test.csprojResolveAssemblyReference.cache
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Application.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Domain.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Application.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application.Test\bin\Debug\Domain.pdb

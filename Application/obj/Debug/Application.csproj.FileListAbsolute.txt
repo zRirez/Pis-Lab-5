@@ -1,0 +1,7 @@
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\bin\Debug\Application.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\bin\Debug\Application.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\bin\Debug\Domain.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\bin\Debug\Domain.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\obj\Debug\Application.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Application\obj\Debug\Application.pdb

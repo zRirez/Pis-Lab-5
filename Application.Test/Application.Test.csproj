@@ -51,7 +51,18 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ApplicationServiceTest.cs" />
+    <Compile Include="MockRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj">
+      <Project>{53A2092C-99EA-4F9A-9221-58DC69DDBC91}</Project>
+      <Name>Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{07E8256E-21F4-48F9-AEA2-EA60E641D407}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

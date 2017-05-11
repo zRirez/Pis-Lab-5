@@ -1,0 +1,6 @@
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\bin\Debug\Domain.Test.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\bin\Debug\Domain.Test.pdb
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\obj\Debug\Domain.Test.dll
+D:\Alexandr\Документы\Visual Studio 2015\Projects\Пис Лаб 5\Domain.Test\obj\Debug\Domain.Test.pdb
